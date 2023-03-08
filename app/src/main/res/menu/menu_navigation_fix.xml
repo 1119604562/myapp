@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_message"
+        android:icon="@mipmap/icon_message"
+
+        android:title="@string/message" />
+    <item
+        android:id="@+id/action_find"
+        android:icon="@mipmap/icon_find"
+        android:title="@string/find" />
+
+    <item
+        android:id="@+id/action_circle"
+        android:icon="@mipmap/icon_circle"
+        android:title="@string/circle" />
+    <item
+        android:id="@+id/action_home"
+        android:icon="@mipmap/icon_home"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/action_mine"
+        android:icon="@mipmap/icon_mine"
+        android:title="@string/mine" />
+
+</menu>
